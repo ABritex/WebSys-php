@@ -1,0 +1,274 @@
+{
+    "popular_books": [
+        {
+            "id": 1,
+            "name": "Death's Daughter and the Ebony Blade",
+            "alt": "Shinigami ni Sodaterareta Shoujo wa Shikkoku no Ken wo Mune ni Idaku",
+            "image": "../FinalProj/image/books/book1.png",
+            "volume": "Vol: 7+",
+            "publisher": "Overlap Bunko",
+            "year": "2017 - ?",
+            "rating": "\u2605 4",
+            "desc": "Olivia is just a baby when the mysterious Z finds her at a temple in the depths of the Forest of No Return. From that day on, the temple becomes her home and Z her family. Z, a god of death, educates her in the ways of the world, in combat, and in the long-forgotten arts of magic—right up until the day Z disappears. Olivia leaves the forest for the first time in search of Z with its ebony blade in hand. Out in the wider world, all is not well. A bitter war rages between the Asvelt Empire and the Kingdom of Fernest, and Fernest is losing badly. When Olivia shows up on Fernest’s doorstep with a sack of imperial heads looking to volunteer, the royal army happily welcomes her into its ranks. Thanks to Z’s training, she quickly proves herself as a ferocious warrior. In fact, she might be just what Fernest needs to turn the tide of the war...but will they accept her lack of people skills and disregard for discipline? And will she ever see Z again?"
+        },
+        {
+            "id": 2,
+            "name": "Berserk of Gluttony",
+            "alt": "Boushoku no Berserk: Ore Dake Level to Iu Gainen wo Toppa Suru",
+            "image": "../FinalProj/image/books/book2.png",
+            "volume": "Vol: 8+",
+            "publisher": "GC Novels",
+            "year": "2017 - ?",
+            "rating": "\u2605 4",
+            "desc": "Fate Barbatos has never tasted real power. Born with the magical skill Gluttony, he constantly hungers in a way that can't be satiated, and has been shunned and looked down upon his entire life. One day, while working as a gatekeeper for a noble family and fighting a trespassing thief, he discovers Gluttony's true power: when he kills someone, he devours their skills and feeds his gnawing hunger at last. In that grisly realization, Fate is awakened to his true potential. How many lives will he feed on to satisfy this hunger, and is the world ready for the frightening warrior he'll become?"
+        },
+        {
+            "id": 3,
+            "name": "The Eminence in Shadow",
+            "alt": "Kage no Jitsuryokusha ni Naritakute!",
+            "image": "../FinalProj/image/books/book3.png",
+            "volume": "Vol: 6+",
+            "publisher": "n/a",
+            "year": "2018 - ?",
+            "rating": "\u2605 4",
+            "desc": "Shadowbrokers are those who go unnoticed, posing as unremarkable people, when in truth, they control everything from behind the scenes. Sid wants to be someone just like that more than anything, and something as insignificant as boring reality isn't going to get in his way! He trains in secret every single night, preparing for his eventual rise to power—only to denied his destiny by a run-of-the-mill (yet deadly) traffic accident. But when he wakes up in a another world and suddenly finds himself at the head of an actual secret organization doing battle with evil in the shadows, he'll finally get a chance to act out all of his delusional fantasies!"
+        },
+        {
+            "id": 4,
+            "name": "Unnamed Memory",
+            "alt": "Unnamed Memory",
+            "image": "../FinalProj/image/books/book4.png",
+            "volume": "Vol: 6",
+            "publisher": "Dengeki no Shinbungei",
+            "year": "2019 - 2021",
+            "rating": "\u2605 4",
+            "desc": "\"My wish as champion is for you to descend the tower and be my wife.\" Climbing a deadly tower, Oscar seeks the power of its master, the Witch of the Azure Moon. He hopes her incredible magic can break a curse that will kill any woman he takes for a wife. When the prince sees how beautiful Tinasha is, though, he has a better idea-since she's surely strong enough to survive his curse, she should just marry him instead! Tinasha isn't keen on the idea, but agrees to live with Oscar in the royal castle for a year while researching the spell placed on the prince. The witch's pretty face hides several lifetimes of dark secrets, however secrets that begin resurfacing..."
+        },
+        {
+            "id": 5,
+            "name": "That Time I Got Reincarnated as a Slime",
+            "alt": "Tensei Shitara Slime Datta Ken",
+            "image": "../FinalProj/image/books/book5.png",
+            "volume": "Vol: 22+",
+            "publisher": "GC Novels",
+            "year": "2014 - ?",
+            "rating": "\u2605 4",
+            "desc": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!"
+        },
+        {
+            "id": 6,
+            "name": "KonoSuba: God's Blessing on This Wonderful World!",
+            "alt": "Kono Subarashii Sekai ni Shukufuku wo!",
+            "image": "../FinalProj/image/books/book6.png",
+            "volume": "Vol: 17; Ch: 127",
+            "publisher": "Kadokawa Sneaker Bunko",
+            "year": "2013 - 2020",
+            "rating": "\u2605 4",
+            "desc": "Game loving shut-in Kazuma Sato's life as a young schoolboy in Japan abruptly comes to an early end...or at least it was supposed to. When he opens his eyes, though, he sees a beautiful goddess that offers him a once in an after-lifetime chance to be reborn in a parallel world. The catch is that the world is violent and threatened by a growing evil! Fortunately, he can choose any one thing to bring with him. So he chooses the goddess, Aqua! And so his adventure with his gorgeous companion begins--if he could just get enough money and food to survive, keep his goddess out of trouble, and avoid grabbing the attention of the Demon King's army!"
+        }
+    ],
+    "most_read_books": [
+        {
+            "id": 7,
+            "name": "The Worlds Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+            "alt": "Sekai Saikyou no Assassin, Isekai Kizoku ni Tensei suru ",
+            "image": "../FinalProj/image/books/book7.png",
+            "volume": "Vol: 7+",
+            "publisher": "Kadokawa Sneaker Bunko",
+            "year": "2019 - ?",
+            "rating": "\u2605 4",
+            "desc": "When a great assassin is reborn in another world, he finds himself the heir to a long line of killers from the shadows. With both his modern-day knowledge and experience and the special magic and techniques of this new world, he could very well become the most unstoppable assassin in history…!"
+        },
+        {
+            "id": 8,
+            "name": "Saving 80,000 Gold in Another World for my Retirement",
+            "alt": "Rougo ni Sonaete Isekai de 8-Man-Mai no Kinka wo Tamemasu",
+            "image": "../FinalProj/image/books/book8.png",
+            "volume": "Vol: 8+",
+            "publisher": "K Lanove Books",
+            "year": "2017 - ?",
+            "rating": "\u2605 4",
+            "desc": "Mitsuha is your average teenage orphan—until one day she falls off a cliff, and finds herself in another world strangely akin to medieval Europe! Beset by wolves, she discovers she has the ability to travel freely between the two worlds, and decides to make a life for herself in both. Now all she needs to do is save up 80,000 gold coins for a comfortable retirement… Piece of cake, right?! No matter how out of control things get, Mitsuha keeps her cool, turning every hurdle into a business opportunity. From shopkeeper to war hero to viscountess, her meteoric rise seems unstoppable—but with each success comes new obligations and new costs. Does every step up just take her further from her goal??"
+        },
+        {
+            "id": 9,
+            "name": "I Shall Survive Using Potions!",
+            "alt": "Potion-danomi de Ikinobimasu!",
+            "image": "../FinalProj/image/books/book9.png",
+            "volume": "Vol: 10+",
+            "publisher": "K Lanove Books",
+            "year": "2017 - ?",
+            "rating": "\u2605 4",
+            "desc": "One day, the supervisor in charge of watching over Earth was taking care of a distortion, when they made a mistake that caused Kaoru Nagase to lose her physical body. Not only that, but reincarnating her into a different, less culturally-advanced world is the only thing they can offer to do for her. Not one to take this turn of events sitting down, Kaoru makes a demand: the power to create potions at any time she pleases, with whatever effect she wants it to have—and it doesn’t stop there either. She asks for a magical Item Box, the ability to understand and speak every language, and the same body she had back when she was a fifteen-year-old girl. Using her newfound powers, Kaoru has to try and make a stable life for herself in a whole new world!"
+        },
+        {
+            "id": 10,
+            "name": "Tsukimichi: Moonlit Fantasy",
+            "alt": "Tsuki ga Michibiku Isekai Douchuu",
+            "image": "../FinalProj/image/books/book10.png",
+            "volume": "Vol: 19+",
+            "publisher": "AlphaPolis",
+            "year": "2013-?",
+            "rating": "\u2605 4",
+            "desc": "Makoto Misumi was an average, everyday high schooler, who found himself shipped off to another world at his parents’ whims. Upon arrival, however, he’s insulted by the Goddess for being too ugly and thrown into a desolate wasteland. He frantically searches for human warmth and connection, but can find nothing but monsters and inhuman settlers. When he finally meets companions he can trust, they turn out to be a pair of powerful perverts in a former dragon and a former giant spider! His high-octane, incredibly misfortunate trek through this foreign world has only just begun!"
+        },
+        {
+            "id": 11,
+            "name": "Konjiki no Word Master",
+            "alt": "Konjiki no Word Master",
+            "image": "../FinalProj/image/books/book11.png",
+            "volume": "Vol: 13+",
+            "publisher": "Fujimi Fantasia Bunko",
+            "year": "2014 - 2018",
+            "rating": "\u2605 4",
+            "desc": "Five people summoned to another world to battle the demon lord who threatens that world. However, there were only four heroes that were summoned, and the other an innocent bystander. What will the innocent bystander do next?"
+        },
+        {
+            "id": 12,
+            "name": "Shatter the Bad Ending!",
+            "alt": "Troi has a bad ending!",
+            "image": "../FinalProj/image/books/book12.png",
+            "volume": "Vol: 1",
+            "publisher": "Arjay The Goat",
+            "year": "2020 - ?",
+            "rating": "\u2605 4.43",
+            "desc": "[Restore The Crown]\nThis was the novel that I was tasked to review as a contestant for our yearly webnovel event and as someone who had to probably read hundreds of novels by now.\n\nIt was utter garbage, it was full of overdone tropes and cliches that you could have seen from a mile away."
+        }
+    ],
+    "isekai_books": [
+        {
+            "id": 13,
+            "name": "Overlord",
+            "alt": "Overlord",
+            "image": "../FinalProj/image/books/book13.png",
+            "volume": "Vol: 16+",
+            "publisher": "n/a",
+            "year": "2012 - ?",
+            "rating": "\u2605 4.5",
+            "desc": "For twelve years, the virtual world of Yggdrasil has served as the playground and battlefield for the skeletal lord Momonga and his guild of fellow monsters, Ainz Ooal Gown. But the guild's glory days are over, and the game is shutting down permanently. When Momonga logs in one last time just to be there when the servers go dark, something happens--and suddenly, fantasy is reality. A rogues' gallery of fanatically devoted NPCs is ready to obey his every order, but the world Momonga now inhabits is not the one he remembers. The game may be over, but the epic tale of Ainz Ooal Gown is only beginning..."
+        },
+        {
+            "id": 14,
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "alt": "Re:ZERO Kara Hajimeru Isekai Seikatsu",
+            "image": "../FinalProj/image/books/book14.png",
+            "volume": "Vol: 34+",
+            "publisher": "MF Bunko J",
+            "year": "2014 - ?",
+            "rating": "\u2605 4",
+            "desc": "Subaru Natsuki was just trying to get to the convenience store but wound up summoned to another world. He encounters the usual things--life-threatening situations, silver haired beauties, cat fairies--you know, normal stuff. All that would be bad enough, but he's also gained the most inconvenient magical ability of all--time travel, but he's got to die to use it. How do you repay someone who saved your life when all you can do is die?"
+        },
+        {
+            "id": 15,
+            "name": "Mushoku Tensei: Jobless Reincarnation",
+            "alt": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+            "image": "../FinalProj/image/books/book15.png",
+            "volume": "Vol: 25+",
+            "publisher": "MF Books",
+            "year": "2014 - ?",
+            "rating": "\u2605 4",
+            "desc": "Just when an unemployed thirty-four-year-old otaku reaches a dead end in life and decides that it’s time to turn over a new leaf—he gets run over by a truck and dies! Shockingly, he finds himself reborn into an infant’s body in a strange, new world of swords and magic. His new identity is Rudeus Grayrat, but he still retains the memories of his previous life. Follow Rudeus from infancy to adulthood, as he struggles to redeem himself in a wondrous yet dangerous world.."
+        },
+        {
+            "id": 16,
+            "name": "The Saga of Tanya the Evil",
+            "alt": "Youjo Senki",
+            "image": "../FinalProj/image/books/book16.png",
+            "volume": "Vol: 18+",
+            "publisher": "n/a",
+            "year": "2013-?",
+            "rating": "\u2605 4",
+            "desc": "High above the blood- and mud-soaked trenches, a young girl pits herself against army mages in high stakes aerial duels with bullets, spells, and bayonets. Her name is Tanya Degurechaff and she is the Devil of the Rhine, one of the greatest soldiers the Empire has ever seen! But inside her mind lives a ruthless, calculating ex-salaryman who enjoyed a peaceful life in Japan until he woke up in a war-torn world. Reborn as a destitute orphaned girl with nothing to her name but memories of a previous life, Tanya will do whatever it takes to survive, even if she can find it only behind the barrel of a gun!"
+        },
+        {
+            "id": 17,
+            "name": "So I'm a Spider, So What?",
+            "alt": "Kumo desu ga, Nani ka? ",
+            "image": "../FinalProj/image/books/book17.png",
+            "volume": "Vol: 16; Ch: 384",
+            "publisher": "Kadokawa Books",
+            "year": "2015 - 2022",
+            "rating": "\u2605 4",
+            "desc": "I used to be a normal high school girl but in the blink of an eye, I woke up in a place I've never seen before and-and I was reborn as a spider?! How could something that's nothing more than a tiny spider (that's me) possibly survive in literally the worst dungeon ever? Are there no rules? There should be some rules! Who the hell is responsible for this? SHOW YOUR FACE!"
+        },
+        {
+            "id": 18,
+            "name": "No Game No Life",
+            "alt": "NGNL",
+            "image": "../FinalProj/image/books/book18.png",
+            "volume": "Vol: 12+",
+            "publisher": "MF Bunko J",
+            "year": "2012 - ?",
+            "rating": "\u2605 4",
+            "desc": "An urban legend states that those exceptionally gifted at gaming will be sent a special game invitation, and the winners of the challenge will be whisked away to another world. When Sora and Shiro, two hikikomori NEETs who happen to be both siblings and notorious gamers, receive this invitation, they defeat it with ease. And like the legends tell, they're transported to another world where conflicts, peoples' lives and even country borders are decided by competitions and games. Always up for a challenge, the pair quickly take on the obstacles that come their way, whether it be restoring lowly humanity's good name compared with the other races or helping influence who will become the next king."
+        }
+    ],
+    "romance_books": [
+        {
+            "id": 19,
+            "name": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+            "alt": "Doumo, Suki na Hito ni Horegusuri wo Iraisareta Majo desu",
+            "image": "../FinalProj/image/books/book19.png",
+            "volume": "Vol: 2; Ch: 21",
+            "publisher": "M Novels f",
+            "year": "2019 - 2020",
+            "rating": "\u2605 4.5",
+            "desc": "“I want you to make a love potion.” The Good Witch of the Lake’s four-year crush ended in heartbreak with a single request from the object of her affections! Wanting to increase what little time she has with Royal Knight Harij, Rose sends him on a wild-goose chase for the ingredients but gets more than she bargained for when the grumbling knight starts visiting her every day…to feed her?"
+        },
+        {
+            "id": 20,
+            "name": "I Reincarnated as a Noble Girl Villainess But Why Did It Turn Out This Way?",
+            "alt": "Akuyaku Tensei Dakedo Doushite Kou Natta. ",
+            "image": "../FinalProj/image/books/book20.png",
+            "volume": "Vol: 3",
+            "publisher": "Arian Rose",
+            "year": "2016 - 2018",
+            "rating": "\u2605 4",
+            "desc": "Eliza Kaldia, who reincarnated as a noble girl villainess in a fantasy otome game, was stuck in a world that seemed far from her image of how noble girls should be living, as the fated events of the game were still far off while she remained a child. In the first place, it was suspect if she could even live to make it to the school setting of the game. Due to changes in the situation of the neighboring country which never appeared in the original game, the world became nothing like the flowery school life from the game. It was a world where even young girls had to take up weapons. How did it turn out this way?"
+        },
+        {
+            "id": 21,
+            "name": "I Am Troubled That My Fiance Is a Villain",
+            "alt": "Konyakusha ga Akuyaku de Komattemasu",
+            "image": "../FinalProj/image/books/book21.png",
+            "volume": "Vol: 2; Ch: 14",
+            "publisher": "Ichijinsha Bunko Iris Neo",
+            "year": "2017",
+            "rating": "\u2605 4",
+            "desc": "Lizia is reincarnated into an otome game world as a mob character. She decides to live with two lives worth of filial piety, however, she has been betrothed to Bernhardt, the last villain in the prince's Route. This is the struggle of Lizia as she tries for a peaceful life."
+        },
+        {
+            "id": 22,
+            "name": "Formerly, The Fallen Daughter of the Duke",
+            "alt": "Moto, Ochikobore Koushaku Reijou desu.",
+            "image": "../FinalProj/image/books/book22.png",
+            "volume": "Vol: 4+",
+            "publisher": "MAG Garden Novels",
+            "year": "2020-?",
+            "rating": "\u2605 4",
+            "desc": "Claire Martino has a fairy-tale life anyone would envy, with a noble upbringing, a crown prince for a fiancé, and a promising future ahead of her as Noston’s most powerful mage. That is, until everything crashes down around her when all of the family magical talent goes to her half sister, Charlotte, instead. With her engagement broken and reputation tarnished, Claire flees the only life she’s ever known and sets off on an adventure to find the freedom she’s craved all along. It’s anything but easy, but fortunately for a girl with dignity, talent, and a whole lot of bravery, nothing is impossible...even turning out to be a video game character! Much to her surprise, Claire finds herself periodically teleported to modern-day Tokyo where Claire Martino is no more than a side character in the classic dating sim game Upstart: Eternal Love. Yet even that won’t stop Claire from saving the day so she can unlock the good ending of her own route."
+        },
+        {
+            "id": 23,
+            "name": "I Decided to Not Compete and Quietly Create Dolls Instead",
+            "alt": "Hariawazu ni Otonashiku Ningyo wo Tsukuru Koto ni Shimashita.",
+            "image": "../FinalProj/image/books/book23.png",
+            "volume": "Vol: 3; Ch: 60",
+            "publisher": "Arian Rose",
+            "year": "2015 - 2016",
+            "rating": "\u2605 4",
+            "desc": "Apparently, this looks like the fantasy world from the Otome game that I used to play in my previous life. “Me”, Altrea, is the lively rival character who challenged the heroine again and again until she/I received painful backlashes. Like only chasing to have the engagement cancelled in the Magic Academy, even breaking and taking over the Duke’s house. For all these eventful stuff, please just give me a break! Or should I say the heart of the game’s heroine is too scarily impregnable! Living differently with the game’s knowledge? Dating the love interests in real life is super troublesome, so I refuse!"
+        },
+        {
+            "id": 24,
+            "name": "My Lady Just Wants to Relax",
+            "alt": "Reijou wa Mattari wo Goshomou.",
+            "image": "../FinalProj/image/books/book24.png",
+            "volume": "Vol: 5",
+            "publisher": "Regina Books",
+            "year": "2018 - 2020",
+            "rating": "\u2605 4",
+            "desc": "Ronia lost her life due to overwork and was reincarnated as a villainess in the world of a certain novel. She knows she is destined for her engagement to be broken off and her banishment from the front stage. However, in this world, she wants to spend her time peacefully and leisurely! After Ronia is banished according to her novel, she opens a cafe in a rural town with the help of little fairies called Lotts. After that, unique beastmen come to her cafe, one after another? The long-awaited first volume of fluffy fantasy in another world!"
+        }
+    ]
+}
